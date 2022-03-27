@@ -9,11 +9,11 @@
 * Linkedin: Ismail Atayev
 
 ***
-##About:
+## About:
 Just a good man)
 
 ***
-##Skills:
+## Skills:
 * C++
 * Java-Core
 * JavaFx
@@ -21,10 +21,10 @@ Just a good man)
 * Figma
 
 ***
-##Education:
+## Education:
 Belarusian State University of Informatics and Radioelectronics.
 Third Course.
 
 ***
-##Languages:
+## Languages:
 English Pre-Intermediate - A2
