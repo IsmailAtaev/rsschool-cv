@@ -1,25 +1,30 @@
 # Ismayyl Atayev
-# Contacts
 
-Phone: +375 (25) 702 12 47
-email: ataewisma@gmail.com
-Telegram: Ismayyl01
-Github: IsmailAtaev
+***
+## Contacts
+* Phone: +375 (25) 702 12 47
+* email: ataewisma@gmail.com
+* Telegram: Ismayyl01
+* Github: IsmailAtaev
+* Linkedin: Ismail Atayev
 
-About:
+***
+##About:
 Just a good man)
 
+***
+##Skills:
+* C++
+* Java-Core
+* JavaFx
+* MySQL
+* Figma
 
-Skills:
-C++
-Java-Core
-JavaFx
-MySQL
-Figma
-
-Education:
+***
+##Education:
 Belarusian State University of Informatics and Radioelectronics.
 Third Course.
 
-Languages:
+***
+##Languages:
 English Pre-Intermediate - A2
