@@ -10,7 +10,6 @@
 * Github: [IsmailAtaev](https://github.com/IsmailAtaev)
 * Linkedin: [Ismayyl Atayev](https://www.linkedin.com/in/-atayev-834259228/)
 * Location: Minsk, Belarus
-* Location: Minsk, Belarus
 
 ***
 ## About
@@ -27,7 +26,7 @@ Just a good man) 🦾🙂
 * HTML 
 * CSS 
 * React 
-* Git, GutHub.
+* Git, GutHub
 
 ***
 ## Books read
