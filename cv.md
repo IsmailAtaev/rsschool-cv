@@ -52,4 +52,4 @@ Fourth Course.
 * Turkmen - Native
 * Russian - C1 (Advanced)
 * English - A2 (Elementary)
-* Turkish - A2 (Elementary)))))).
+* Turkish - A2 (Elementary)
